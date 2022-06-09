@@ -15,3 +15,9 @@
 ![](images/pre-norm_counts.png)
 #### Data after normalization
 ![](images/norm_counts.png)
+## Samples clusterization
+На основе нормализованных данных генной экспрессии исследуемые образцы были кластеризованы. Для визуализации результатов кластеризации были использованы два распространённых метода понижения размерности: PCA и UMAP.
+### PCA visualization
+![](images/pca.png)
+### UMAP visualization
+![](images/umap.png)
