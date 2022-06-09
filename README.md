@@ -10,6 +10,6 @@
 В отдельном образце значение TPM для гена i равняется количеству чтений гена i “q(i)”, взвешенному на длину гена i “l(i)”, деленному на сумму чтений всех генов в образце, взвешенных на длины этих.
 ### Results
 #### Data before normalization
-![](images/pre-norm_data.png)
+![](images/pre-norm_counts.png)
 #### Data after normalization
-![](images/norm_data.png)
+![](images/norm_counts.png)
