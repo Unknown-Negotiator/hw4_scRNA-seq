@@ -21,3 +21,6 @@
 ![](images/pca.png)
 ### UMAP visualization
 ![](images/umap.png)
+## Marker genes expression heatmap
+На основе нормализованных данных об экспрессии 23 маркерных генов, отобранных авторами статьи, была получена тепловая карта.
+![](images/expr_heatmap.png)
